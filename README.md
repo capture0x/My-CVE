@@ -33,6 +33,7 @@
 27. **[CVE-2024-29686](https://nvd.nist.gov/vuln/detail/CVE-2024-29686)**
 28. **[CVE-2024-27623](https://nvd.nist.gov/vuln/detail/CVE-2024-27623)**
 29. **[CVE-2024-27625](https://nvd.nist.gov/vuln/detail/CVE-2024-27625)**
+30. **[CVE-2024-27626](https://nvd.nist.gov/vuln/detail/CVE-2024-27626)**
 
 ## :warning: Disclaimer :warning:
 
