@@ -34,6 +34,10 @@
 28. **[CVE-2024-27623](https://nvd.nist.gov/vuln/detail/CVE-2024-27623)**
 29. **[CVE-2024-27625](https://nvd.nist.gov/vuln/detail/CVE-2024-27625)**
 30. **[CVE-2024-27626](https://nvd.nist.gov/vuln/detail/CVE-2024-27626)**
+31. **[CVE-2024-10247](https://www.cve.org/CVERecord?id=CVE-2024-10247)**
+32. **[CVE-2024-9769](https://www.cve.org/CVERecord?id=CVE-2024-9769)**
+33. **[CVE-2024-9874](https://www.cve.org/CVERecord?id=CVE-2024-9874)**
+34. **[CVE-2024-9878](https://www.cve.org/CVERecord?id=CVE-2024-9878)**
 
 ## :warning: Disclaimer :warning:
 
