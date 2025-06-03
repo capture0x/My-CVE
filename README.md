@@ -39,6 +39,7 @@
 33. **[CVE-2024-9874](https://www.cve.org/CVERecord?id=CVE-2024-9874)**
 34. **[CVE-2024-9878](https://www.cve.org/CVERecord?id=CVE-2024-9878)**
 
+
 ## :warning: Disclaimer :warning:
 
 **The information regarding these CVEs is provided solely for educational and research purposes. These vulnerabilities showcase important security issues that need to be addressed and should not be exploited for malicious purposes. The author disclaims responsibility for any illegal use of this information.**
